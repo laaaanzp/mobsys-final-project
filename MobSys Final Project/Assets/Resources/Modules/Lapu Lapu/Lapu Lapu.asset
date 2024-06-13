@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df87e727a8d9b0d469fdab605eddd0b1, type: 3}
+  m_Name: Lapu Lapu
+  m_EditorClassIdentifier: 
+  sprites:
+  - {fileID: 21300000, guid: fac48abe7bbf28949a538f8dcce472cb, type: 3}
+  - {fileID: 21300000, guid: 800b78ff0f333574cb35d1eee4ef731c, type: 3}
+  - {fileID: 21300000, guid: b4e3b6aa2cc43d442afa26c21706d97e, type: 3}
+  description: Lapu-Lapu was a significant figure in Philippine history, known for
+    his role in the Battle of Mactan. He was a chieftain of Mactan Island in the
+    Philippines during the early 16th century. Lapu-Lapu is celebrated for his leadership
+    in resisting Spanish colonization. In 1521, when Portuguese explorer Ferdinand
+    Magellan arrived in the Philippines, he attempted to assert Spanish authority
+    over the islands. However, Lapu-Lapu fiercely defended his territory and successfully
+    repelled Magellan's forces in the Battle of Mactan on April 27, 1521. This event
+    marked the first recorded resistance of indigenous Filipinos against European
+    colonization. Lapu-Lapu's victory is commemorated annually in the Philippines
+    as "Lapu-Lapu Day." He remains a symbol of Filipino resistance, courage, and
+    the fight for independence against foreign invaders. Numerous monuments, streets,
+    and landmarks across the Philippines are named after him, honoring his legacy
+    in Filipino history and culture.

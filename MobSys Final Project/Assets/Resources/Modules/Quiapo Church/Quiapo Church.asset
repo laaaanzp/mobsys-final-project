@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df87e727a8d9b0d469fdab605eddd0b1, type: 3}
+  m_Name: Quiapo Church
+  m_EditorClassIdentifier: 
+  sprites:
+  - {fileID: 21300000, guid: b697d08d20c39ce499a9a3c8954a448a, type: 3}
+  - {fileID: 21300000, guid: 58780c59621dff543b41b9126800f818, type: 3}
+  description: 'Quiapo Church, officially known as the Minor Basilica of the Black
+    Nazarene and also called the Parish of Saint John the Baptist, is one of the
+    most significant Roman Catholic churches in the Philippines. Located in the district
+    of Quiapo in Manila, the church is a renowned pilgrimage site, particularly famous
+    for housing the revered image of the Black Nazarene.
+
+    The original structure
+    of Quiapo Church was built in 1586 by Franciscan missionaries but was destroyed
+    by fire in 1603. The church was rebuilt in 1686, only to be damaged again by
+    earthquakes in the 19th century. The present structure, which stands today, was
+    completed in 1933. Designed by National Artist for Architecture Juan Nakpil,
+    the church combines elements of Baroque and Romanesque architectural styles.
+
+    Quiapo
+    Church plays a vital role in the community, providing social services and charitable
+    activities. It is a symbol of hope and resilience for many Filipinos, reflecting
+    the country''s history of enduring faith amidst challenges. The church is also
+    a focal point during significant national events and religious observances, making
+    it an integral part of the country''s religious and cultural heritage.'

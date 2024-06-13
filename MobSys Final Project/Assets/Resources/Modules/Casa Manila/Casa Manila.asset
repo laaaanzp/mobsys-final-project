@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df87e727a8d9b0d469fdab605eddd0b1, type: 3}
+  m_Name: Casa Manila
+  m_EditorClassIdentifier: 
+  sprites:
+  - {fileID: 21300000, guid: 229ab1869d6406848a65b8cd82083410, type: 3}
+  - {fileID: 21300000, guid: b4a0a1f3a3ac601438c3d8e23167ef15, type: 3}
+  - {fileID: 21300000, guid: 6d78751b4a4d02442a0887b63e8c5dca, type: 3}
+  description: "Casa Manila, also known as the \"Manila House,\" is a living museum
+    that provides a vivid portrayal of an affluent Filipino family's lifestyle during
+    the late Spanish colonial period. Modeled after a residence from 1850s Binondo,
+    the Chinese district of Manila, its fa\xE7ade exudes historical charm. Inside,
+    visitors are transported to the late 19th century, where European and Chinese
+    furniture adorn the rooms. Painted walls, crystal chandeliers, and intricate
+    carvings showcase the opulence of Manila's elite households from centuries past.
+    Casa Manila offers a captivating journey through time, allowing visitors to experience
+    the elegance and luxury of a bygone era."

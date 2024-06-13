@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df87e727a8d9b0d469fdab605eddd0b1, type: 3}
+  m_Name: Fort Santiago
+  m_EditorClassIdentifier: 
+  sprites:
+  - {fileID: 21300000, guid: b348753d6efb78f4184549e1f3ff994d, type: 3}
+  - {fileID: 21300000, guid: b0eff64b5a866ec4189369e48d74a5e3, type: 3}
+  description: "Fort Santiago is a historic citadel located in the heart of Intramuros,
+    Manila, Philippines. Built during the Spanish colonial period, the fort has served
+    various purposes throughout its history, including military defense, political
+    incarceration, and cultural heritage preservation. Today, it stands as a significant
+    historical landmark and tourist destination, offering visitors a glimpse into
+    the country's rich past.\r\nThe construction of Fort Santiago began in 1590 under
+    the supervision of Spanish conquistador Miguel L\xF3pez de Legazpi, the first
+    Governor-General of the Philippines. The fort was strategically positioned along
+    the banks of the Pasig River to defend the city of Manila from foreign invasions.
+    Over the centuries, Fort Santiago underwent several renovations and expansions,
+    reflecting the changing needs of the colonial administration.\r\nFort Santiago
+    played a crucial role in Philippine history, serving as a military stronghold
+    and a symbol of Spanish colonial power. It was the site of numerous battles and
+    conflicts, including the defense against foreign invasions and the suppression
+    of local uprisings. During World War II, the fort suffered extensive damage from
+    bombings but was later restored to its former glory as a symbol of resilience
+    and national pride.\r\nEfforts to preserve and conserve Fort Santiago have been
+    ongoing, ensuring that future generations can continue to appreciate its historical
+    significance. Restoration projects have aimed to maintain the integrity of the
+    fort's structures while enhancing visitor amenities and educational resources."

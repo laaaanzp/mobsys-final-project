@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee54b8cce12f5a84bb68055521183d14, type: 3}
+  m_Name: Gomburza 2
+  m_EditorClassIdentifier: 
+  question: When were Gomburza executed?
+  choiceA: February 16, 1872
+  choiceB: February 17, 1872
+  choiceC: February 18, 1872
+  choiceD: February 19, 1872
+  correctAnswer: 1

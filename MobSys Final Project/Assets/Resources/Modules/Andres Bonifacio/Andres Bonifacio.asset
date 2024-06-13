@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df87e727a8d9b0d469fdab605eddd0b1, type: 3}
+  m_Name: Andres Bonifacio
+  m_EditorClassIdentifier: 
+  sprites:
+  - {fileID: 21300000, guid: 675e537d7e551464ca70c2a28953c3d2, type: 3}
+  - {fileID: 21300000, guid: 5521d58f5f873e345b3da3cf2f508558, type: 3}
+  description: "Andr\xE9s Bonifacio was a leader of the Philippine Revolution and
+    the president of the Tagalog Republic, a short-lived government in the Philippines.
+    Through his work, Bonifacio helped the Philippines break free from Spanish colonial
+    rule. His story is still remembered in the Philippines today.\r\nKatipunan, or
+    Kataastaasang Kagalannalangang Katipunan ng mga Anak ng Bayan (literally \"Highest
+    and Most Respected Society of the Children of the Country\"), was dedicated to
+    armed resistance against the colonial government. Made up mostly of people from
+    the middle and lower classes, the Katipunan organization soon established regional
+    branches in a number of provinces across the Philippines."

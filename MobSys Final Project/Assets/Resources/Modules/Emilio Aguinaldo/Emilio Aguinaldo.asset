@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df87e727a8d9b0d469fdab605eddd0b1, type: 3}
+  m_Name: Emilio Aguinaldo
+  m_EditorClassIdentifier: 
+  sprites:
+  - {fileID: 21300000, guid: ceeb3f99329895f459d18227b632c3ba, type: 3}
+  - {fileID: 21300000, guid: 6024a937cfa79e149b6e10bf7a2101de, type: 3}
+  description: "Emilio Aguinaldo y Famy was a prominent Filipino revolutionary leader,
+    politician, and military general who played a key role in the Philippine struggle
+    for independence from Spanish and American colonial rule. Born in Cavite El Viejo
+    (now Kawit), Cavite, Aguinaldo was the seventh of eight children in a wealthy
+    and influential family.\r\nAguinaldo's political career began early when he was
+    elected as the mayor of Cavite El Viejo in 1895. His leadership and organizational
+    skills soon brought him to the forefront of the revolutionary movement against
+    Spanish rule. In 1896, when the Philippine Revolution broke out, Aguinaldo joined
+    the Katipunan, an underground society led by Andr\xE9s Bonifacio dedicated to
+    achieving Philippine independence through armed struggle.\r\nAguinaldo declared
+    Philippine independence from Spain on June 12, 1898, in Kawit, Cavite, after
+    forming a new revolutionary government. However, the Spanish-American War altered
+    the course of the revolution. Following Spain's defeat, the Treaty of Paris (1898)
+    transferred control of the Philippines to the United States, leading to the Philippine-American
+    War.\r\nAguinaldo led the Filipino forces against American troops but was eventually
+    captured on March 23, 1901, in Palanan, Isabela. His capture marked the decline
+    of organized resistance against American rule. After his release from captivity,
+    Aguinaldo retired from public life for several years."

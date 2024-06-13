@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df87e727a8d9b0d469fdab605eddd0b1, type: 3}
+  m_Name: Jose Rizal
+  m_EditorClassIdentifier: 
+  sprites:
+  - {fileID: 21300000, guid: 38412fca7aa4cd149a776e00bb0f880c, type: 3}
+  - {fileID: 21300000, guid: ad8a83668bfb33a40a91ac42d5b4996e, type: 3}
+  - {fileID: 21300000, guid: 9bc3c7bc8a2d0c74ca317bdb047f3ee4, type: 3}
+  description: Jose Rizal was a Filipino nationalist and polymath who played a key
+    role in the Philippines' struggle for independence from Spanish colonial rule.
+    Born on June 19, 1861, in Calamba, Laguna. Rizal was a gifted writer, poet, and
+    intellectual. He studied medicine and later pursued further studies in Europe,
+    where he became involved in various reformist movements advocating for Filipino
+    rights. Rizal's literary works, including novels like "Noli Me Tangere" and "El
+    Filibusterismo," exposed the injustices of Spanish colonialism and inspired a
+    sense of national identity among Filipinos. His writings provoked the ire of
+    Spanish authorities, leading to his arrest and eventual execution on December
+    30, 1896. Rizal's martyrdom ignited the flames of revolution and galvanized the
+    Filipino people in their quest for freedom. Today, he is revered as the national
+    hero of the Philippines, and his life and legacy continue to inspire generations
+    of Filipinos to fight for justice, equality, and sovereignty.

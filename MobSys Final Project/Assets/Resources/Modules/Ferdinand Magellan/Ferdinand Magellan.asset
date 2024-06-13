@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df87e727a8d9b0d469fdab605eddd0b1, type: 3}
+  m_Name: Ferdinand Magellan
+  m_EditorClassIdentifier: 
+  sprites:
+  - {fileID: 21300000, guid: 64f11e76f5820b74aaafab389db294b6, type: 3}
+  - {fileID: 21300000, guid: 4d35facb80d7bfd4db5166f9c3602b60, type: 3}
+  description: "Ferdinand Magellan was a Portuguese explorer who led the first expedition
+    to circumnavigate the globe. Born in 1480 in Portugal, Magellan gained fame for
+    his ambitious quest to find a westward route to the Spice Islands, which would
+    open lucrative trade routes for European powers. In 1519, he set sail from Spain
+    with a fleet of five ships, funded by King Charles I. Despite numerous challenges
+    and hardships, Magellan's expedition reached South America, where he discovered
+    the strait that now bears his name, allowing passage from the Atlantic to the
+    Pacific Ocean. On April 27, 1521, Magellan was killed in a skirmish with indigenous
+    forces in the Philippines, but his remaining crew completed the first circumnavigation
+    of the Earth under the leadership of Juan Sebasti\xE1n Elcano. Magellan's voyage
+    significantly expanded European knowledge of global geography and paved the way
+    for future exploration and colonization. He is remembered as one of the most
+    influential explorers in history, despite his untimely death during his historic
+    expedition."

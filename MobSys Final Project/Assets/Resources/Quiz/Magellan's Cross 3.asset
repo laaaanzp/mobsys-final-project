@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee54b8cce12f5a84bb68055521183d14, type: 3}
+  m_Name: Magellan's Cross 3
+  m_EditorClassIdentifier: 
+  question: What is the significance of Magellan's Cross?
+  choiceA: It marks the beginning of Spanish colonization in the Philippines
+  choiceB: It commemorates the independence of the Philippines
+  choiceC: It symbolizes the victory of Lapu-Lapu over Ferdinand Magellan
+  choiceD: It represents the arrival of Portuguese explorers in the Philippines
+  correctAnswer: 0

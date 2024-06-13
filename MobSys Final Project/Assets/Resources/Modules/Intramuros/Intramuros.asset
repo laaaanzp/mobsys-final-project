@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df87e727a8d9b0d469fdab605eddd0b1, type: 3}
+  m_Name: Intramuros
+  m_EditorClassIdentifier: 
+  sprites:
+  - {fileID: 21300000, guid: 197572b2bf9439648add873138dbebd8, type: 3}
+  - {fileID: 21300000, guid: 9d3287a92c6b7504a9586ec3c3b64a87, type: 3}
+  - {fileID: 21300000, guid: 8aa9d26a7fceaeb44bdf342a293c35c4, type: 3}
+  description: Intramuros, meaning "within the walls" in Spanish, is a historic walled
+    city located in Manila, Philippines. Built during the Spanish colonial period,
+    it served as the seat of government, religious, and military power in the country.
+    The walls of Intramuros were constructed to protect the city from foreign invasions
+    and pirate attacks. Today, Intramuros is a popular tourist destination, offering
+    visitors a glimpse into the Philippines' colonial past through its well-preserved
+    Spanish-era architecture, cobblestone streets, and historic landmarks such as
+    Fort Santiago and San Agustin Church. Visitors can explore the area on foot,
+    take guided tours, or enjoy horse-drawn carriage rides along its charming streets.
